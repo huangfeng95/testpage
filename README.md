@@ -14,7 +14,7 @@ Jiafeng Huang<sup>1</sup>, Tianjun Zhang<sup>1</sup>, Shengjie Zhao<sup>1</sup>,
 
 [Dataset (pwd: 3ub6)](https://pan.baidu.com/s/1f8Dvh7z73PEbFA6DKwRdQw)
 
-<img src="dataset.jpg" style="zoom: 70%;" />
+<img src="dataset overview.png" style="zoom: 70%;" />
 
 <center style="color:#C0C0C0;text-decoration:underline">Table 1. Details of the TONGJI dataset. "Traj. Len.", "Lin. Vel.", and "Ang. Vel." are abbreviations of trajectory length, linear velocity, and angular velocity, respectively.</center>
 
