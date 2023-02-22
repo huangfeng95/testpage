@@ -18,6 +18,11 @@ Jiafeng Huang<sup>1</sup>, Tianjun Zhang<sup>1</sup>, Shengjie Zhao<sup>1</sup>,
 
 <center style="color:#C0C0C0;text-decoration:underline">Table 1. An overview of underwater organism datasets. MKUO is the underwater biological data set covering the broadest categories and the first one labeled with taxonomy scientific name.</center>
 
+<img src="dataset samples.png" style="zoom: 70%;" />
+
+<center style="color:#C0C0C0;text-decoration:underline">Fig. 1. Some typical samples of our MKUO dataset. In each column, the image without annotations is
+shown on the top, and the corresponding result with annotations is shown at the bottom. From left to right, the samples of **Pneumatophorus japonicus**, **Aurelia aurita**, **Scarus ghobban** and **Echeneis naucrates** are given, respectively.</center>
+
 #### Source Codes
 
 [D-LIOM Codes](https://github.com/peterWon/dlio)
