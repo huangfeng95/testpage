@@ -17,6 +17,7 @@ Jiafeng Huang<sup>1</sup>, Tianjun Zhang<sup>1</sup>, Shengjie Zhao<sup>1</sup>,
 <img src="dataset overview.png" style="zoom: 70%;" />
 
 <center style="color:#C0C0C0;text-decoration:underline">Table 1. An overview of underwater organism datasets.</center>
+
 >  MKUO is the underwater biological data set covering the broadest categories and the first one labeled with taxonomy scientific name.
 
 <img src="dataset samples.png" style="zoom: 70%;" />
@@ -31,6 +32,7 @@ shown on the top, and the corresponding result with annotations is shown at the 
 <img src="Sparse Ghost Module performance.png" style="zoom: 70%;" />
 
 <center style="color:#C0C0C0;text-decoration:underline">Table 2. Performance results of Sparse Ghost Module and some other classical lightweight modules.</center>
+
 >  Considering all metrics comprehensively, the lightweight effect of the Sparse Ghost Module is the best among all compared schemes.
 
 #### Source Codes
