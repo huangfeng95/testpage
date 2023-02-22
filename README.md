@@ -16,7 +16,7 @@ Jiafeng Huang<sup>1</sup>, Tianjun Zhang<sup>1</sup>, Shengjie Zhao<sup>1</sup>,
 
 <img src="dataset overview.png" style="zoom: 70%;" />
 
-<center style="color:#C0C0C0;text-decoration:underline">Table 1. Details of the TONGJI dataset. "Traj. Len.", "Lin. Vel.", and "Ang. Vel." are abbreviations of trajectory length, linear velocity, and angular velocity, respectively.</center>
+<center style="color:#C0C0C0;text-decoration:underline">Table 1. An overview of underwater organism datasets. MKUO is the underwater biological data set covering the broadest categories and the first one labeled with taxonomy scientific name.</center>
 
 #### Source Codes
 
