@@ -23,14 +23,7 @@ Jiafeng Huang<sup>1</sup>, Tianjun Zhang<sup>1</sup>, Shengjie Zhao<sup>1</sup>,
 <center style="color:#C0C0C0;text-decoration:underline">Fig. 1. Some typical samples of our MKUO dataset. In each column, the image without annotations is
 shown on the top, and the corresponding result with annotations is shown at the bottom. From left to right, the samples of **Pneumatophorus japonicus**, **Aurelia aurita**, **Scarus ghobban** and **Echeneis naucrates** are given, respectively.</center>
 
-#### Source Codes
+#### Sparse Ghost Module
+## Source Codes
 
-[D-LIOM Codes](https://github.com/peterWon/dlio)
-
-#### Demo Video
-
-> The following demo video demonstrates the performance of our D-LIOM on a self-collected dataset using a handheld device from campus environments, a public indoor dataset gathered from an unmanned aerial vehicle (UAV) and a public dataset collected from complex urban environments with a vehicle-mounted platform, respectively .
-
-<video id="v1" controls="" src="dliom-no-zsj-compress.mp4" preload="true">
-
-
+[Sparse Ghost Module Codes](https://github.com/huangfeng95/Sparse-Ghost-Module)
